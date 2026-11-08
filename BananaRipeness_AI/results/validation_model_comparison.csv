@@ -1,0 +1,5 @@
+Rank,Model,Accuracy,Macro_F1
+1,SVM,0.9763,0.9677
+2,EfficientNetV2B0,0.97,0.9565
+3,ResNet50,0.97,0.9549
+4,Custom CNN (Tuned),0.9401,0.9196
