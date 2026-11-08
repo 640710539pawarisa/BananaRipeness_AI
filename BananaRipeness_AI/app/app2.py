@@ -26,7 +26,8 @@ st.set_page_config(
     layout="wide"
 )
 
-project_directory = Path(__file__).resolve().parent
+
+project_directory = Path(__file__).resolve().parents[1]
 results_directory = project_directory / "results"
 
 class_display_names = {
