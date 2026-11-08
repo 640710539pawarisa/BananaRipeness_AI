@@ -1,0 +1,2 @@
+Model,Dataset,Test_Images,Accuracy,Macro_F1
+SVM,Screened Test,393,0.9516539440203562,0.9308852336160669
